@@ -27,6 +27,9 @@ Others:
 
 The main code for this project is divided into chapters. The second chapter deals with importing datasets that would be used in this project: Open_Air_bnb dataset, most visited tourist places in New York City taken as a table from a wikipedia page, and major NYC airports.
 The Open_Air_bnb is a modified dataset with an added feature - proximity to the closest subway station. The method to obtain this feature is describes in the very last chapter: 'Prep that was done one time, downloaded and used as an input'. This step takes a very long time, like hours (any suggestions how to speed this step up is very welcome). it was performed once, downloaded, and used as input for the analysis. If you already have the dataset with the "proximity to the closest subway station" feature (included in the repository), you do not need to run the code from the last chapter. But in case you need it - it is there.
+
+# Project motivation
+The model tries to predict a nightly price based on listing details, host characteristics, and location and proximity to landmarks. Using this model Airbnb could suggest host recommended prices for their listings. Having the most optimal prices, hosts could rent out more listings, which would generate more profit to Airbnb.
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTA5NDM0MTYxNF19
 -->
