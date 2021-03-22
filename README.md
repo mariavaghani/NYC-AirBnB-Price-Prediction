@@ -34,7 +34,7 @@ The model tries to predict a nightly price based on listing details, host charac
 # File Description
 The files included in this project are:
 
-Open_AirBnB_data.ipynb - Jupyter Notebook including the main project code.
+- Open_AirBnB_data.ipynb - Jupyter Notebook including the main project code.
 
 Data folder:
 - AB_NYC_2019.csv - the origianl csv file downloaded from [Kaggle](https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data)
