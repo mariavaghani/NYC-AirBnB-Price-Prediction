@@ -30,6 +30,17 @@ The Open_Air_bnb is a modified dataset with an added feature - proximity to the 
 
 # Project motivation
 The model tries to predict a nightly price based on listing details, host characteristics, and location and proximity to landmarks. Using this model Airbnb could suggest host recommended prices for their listings. Having the most optimal prices, hosts could rent out more listings, which would generate more profit to Airbnb.
+
+# File Description
+The files included in this project are:
+
+Open_AirBnB_data.ipynb - Jupyter Notebook including the main project code.
+Folder Data:
+- AB_NYC_2019.csv - the origianl csv file downloaded from [Kaggle](https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data)
+- AIRPORT_POINT.xlsx - xlsx file containing airport locations in NYC. taken from [data.gov](https://catalog.data.gov/en_AU/dataset/airport-point). [This wikipedia](https://en.wikipedia.org/wiki/Newark_Liberty_International_Airport) was used to add Newark airport manually.
+- Top_attractions_nyc.xlsx - xlsx containing list of top NYC landmarks. taken from [wikipedia](https://en.wikipedia.org/wiki/Tourism_in_New_York_City)
+- NYC_Transit_Subway_Entrance_And_Exit_Data.csv - csv files containing data on NYC subway exits. taken from [kaggle](NYC_Transit_Subway_Entrance_And_Exit_Data.csv)
+- Open_Airbnb_ver.1.csv - modified csv containing the original data and proximity to the nearest subway exit feature
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTA5NDM0MTYxNF19
 -->
