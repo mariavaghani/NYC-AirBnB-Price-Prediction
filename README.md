@@ -35,7 +35,8 @@ The model tries to predict a nightly price based on listing details, host charac
 The files included in this project are:
 
 Open_AirBnB_data.ipynb - Jupyter Notebook including the main project code.
-Folder Data:
+
+Data folder:
 - AB_NYC_2019.csv - the origianl csv file downloaded from [Kaggle](https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data)
 - AIRPORT_POINT.xlsx - xlsx file containing airport locations in NYC. taken from [data.gov](https://catalog.data.gov/en_AU/dataset/airport-point). [This wikipedia](https://en.wikipedia.org/wiki/Newark_Liberty_International_Airport) was used to add Newark airport manually.
 - Top_attractions_nyc.xlsx - xlsx containing list of top NYC landmarks. taken from [wikipedia](https://en.wikipedia.org/wiki/Tourism_in_New_York_City)
