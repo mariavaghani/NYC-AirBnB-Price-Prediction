@@ -45,6 +45,7 @@ Data folder:
 
 # Project Summary
 This project aims to predict daily price for each Airbnb listing in NYC based on listing features. Since I was provided with location data, I decided to take a closer look at how this information could be used. Before living in NYC, I was coming to visit and I still remember what my criteria were for choosing the right place to stay and with that - the price I was willing to pay. Reconstructing mindset of a tourist is the key to build the ML model. What is important when you are a tourist in a new city? How am I going to get to the place from airport, how easy it would be commute to most famous landmarks and how close I am to said landmarks? These questions determined three features: proximity to the nearest airport, proximity to the nearest subway station, and distance to most famous landmarks.
+The proximity to the nearest subway station feature was rendered once and later imported into the script for the sake of saving runtime. 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTA5NDM0MTYxNF19
 -->
