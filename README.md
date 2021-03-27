@@ -55,6 +55,11 @@ Using Feature Importance algorythm, I figured out the the most top features affe
 5. reviews_per_month (0.032490)
 
 Turns out people are looking into certain types of homes, shooting to be aroung 20-35th streets of Manhattan, stable listings available throughout the year, being close to a subway, and, of course, good reviews!
+
+# Acknowledgements & Licensing
+Sources of data are listed under "File Description" section. Data sets are downloaded from Kaggle, Data.gov, and Wikipedia
+
+All files included in this repository are free to use.
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTA5NDM0MTYxNF19
 -->
